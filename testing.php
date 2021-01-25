@@ -1,3 +1,3 @@
 <?php
-    echo "Hello My Depressing Thoughts";
+    echo "Hello My Depressing AHA Thoughts";
 ?>
